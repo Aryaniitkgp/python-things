@@ -1,0 +1,16 @@
+building an expense tracker:
+i want to : 1. add an expense
+            2. view an expense
+            3. search an expense
+            4. delete something
+            5. monthy summary
+
+what information does expense represent? : 1. amount
+                                           2. category
+                                           3. description
+                                           4. payment method
+
+WORKFLOW: start-> menu-> option-> select-> menu-> exit
+
+VERSION 1: program to start->add expense-> display it -> exit
+          Menu: Food expenses, groceries, stationary etc.
