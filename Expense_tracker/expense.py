@@ -4,3 +4,8 @@ class Expense:
         self.category=category
         self.description=description
         self.date=date
+    def __str__(self):
+        return f"""amount: {self.amount}
+                   category: {self.category}
+                   description: {self.description}
+                   date: {self.date}"""
